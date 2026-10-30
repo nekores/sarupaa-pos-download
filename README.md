@@ -54,6 +54,6 @@ The installed app checks this repository for a newer release and can download it
 
 ## Support
 
-Questions about the product: [support@sarupaa.com](mailto:support@sarupaa.com)
+Questions about the product: [support@asiandevs.com](mailto:support@asiandevs.com)
 
 This repository is for downloads only. Source code is not published here.
